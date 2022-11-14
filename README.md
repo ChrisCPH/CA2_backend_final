@@ -7,4 +7,3 @@ To use the project follow the steps
 - Check name of branch in mavenworkflow.yml and change if it doesn't match (either master or main)
 - Add datasource and change persistence.xml (don't commit these changes to git)
 - Run SetupTestUsers.java (Change passwords for droplet and don't push those changes)
-- Check persistence.xml for DB, password and username (line 24, 25, 26)
